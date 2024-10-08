@@ -1,0 +1,9 @@
+.test-form {
+  &__payment-button {
+    @apply w-full p-3 bg-green-500 text-white rounded-md hover:bg-green-600 transition-colors mt-2;
+  }
+}
+
+.h1_my {
+  @apply text-2xl font-bold;
+}
